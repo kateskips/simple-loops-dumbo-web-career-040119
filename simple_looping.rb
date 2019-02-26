@@ -25,6 +25,7 @@ def while_iterator(number_of_times)
   counter = 0
   while counter < 7
   puts "#{phrase}"
+  counter += 1
 end
 
 def until_iterator(number_of_times)
