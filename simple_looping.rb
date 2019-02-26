@@ -48,5 +48,5 @@ def for_iterator(number_of_times)
   for counter in 1..7 do 
     puts "#{phrase}"
     counter -= 1
-end
+  end
 end
